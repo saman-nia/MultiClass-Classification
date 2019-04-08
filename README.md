@@ -1,4 +1,4 @@
-# Multi-label-Classification-Features-with-Tensorflow
+# Multi-Class Classification Features with Tensorflow
 
 # One vs. All: 
 Concept from: https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/one-vs-all <br />
