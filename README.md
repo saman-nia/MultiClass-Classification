@@ -15,3 +15,8 @@ This approach is fairly reasonable when the total number of classes is small, bu
 We can create a significantly more efficient one-vs.-all model with a deep neural network in which each output node represents a different class. The following figure suggests this approach: <br />
 
 ![alt text](https://developers.google.com/machine-learning/crash-course/images/OneVsAll.svg)
+
+
+Here, you can see the performance of deep multi class classification: <br />
+
+![alt text](https://github.com/saman-nia/Deep-Learning-MultiClass-Classification/blob/master/data/Image_Performance.png) <br />
