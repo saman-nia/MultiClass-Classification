@@ -1,4 +1,4 @@
-# Multi-Class Classification Features with Tensorflow
+# Multi-Class Classification Features with Tensorflow an Scikit Learn Logistic Regression
 
 # One vs. All: 
 
