@@ -2,6 +2,10 @@
 
 # One vs. All: 
 
+Here, you can see the performance of Deep Learning Vs. Machine Learning: <br />
+
+![alt text](https://github.com/saman-nia/MultiClass-Classification/blob/master/data/Result.png) <br />
+
 Here, you can see the performance of deep multi class classification: <br />
 
 ![alt text](https://github.com/saman-nia/Deep-Learning-MultiClass-Classification/blob/master/data/Image_Performance.png) <br />
